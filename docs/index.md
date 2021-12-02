@@ -3,7 +3,7 @@ layout: cv
 title: Eric Layton's Resume
 ---
 # Eric Layton
-Data Science student at BYU-Idaho.
+Data Science student at BYU-Idaho
 
 <div id="webaddress">
 <a href="datascience@byui.edu">datascience@byui.edu</a>
