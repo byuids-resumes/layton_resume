@@ -3,11 +3,11 @@ layout: cv
 title: Eric Layton's Resume
 ---
 # Eric Layton
-Data Science student at BYU-Idaho
+CIT and Data Science student at BYU-Idaho
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
+<a href="lay18008@byui.edu">lay18008@byui.edu</a>
+| <a href="https://github.com/byuids-resumes/layton_resume">Data Science Program Resume</a>
 | <a href="https://www.linkedin.com/in/eric-layton/">LinkedIn</a>
 | <a href="https://github.com/ericl810">GitHub</a>
 </div>
