@@ -26,7 +26,7 @@ __BYU-Idaho__, Rexburg, ID
 
 ### Internships
 
-`January 2028 - June 2028`
+`April 2021 - July 2021`
 __Pitch 59__, Rexburg, ID
 
 - Utilized Google Cloud Platform, GitHub, and Docker.
@@ -48,7 +48,7 @@ __Application Systems Engineer Asistant__
 __Eagle Scout__, Boy Scouts of America
 
 
-`2023-2025`
+`2018-2020`
 __Service Missionary__, Guayaquil, Ecuador
 
 
